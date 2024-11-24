@@ -1,0 +1,607 @@
+{
+    "Albay": {
+        "population": 1374768,
+        "area_sqkm": 2574.91,
+        "region": "Bicol (Region V)"
+    },
+    "Angeles": {
+        "population": 462928,
+        "area_sqkm": 63.29,
+        "region": "Central Luzon (Region III)"
+    },
+    "Aurora": {
+        "population": 235750,
+        "area_sqkm": 3147.32,
+        "region": "Central Luzon (Region III)"
+    },
+    "Bataan": {
+        "population": 853373,
+        "area_sqkm": 1372.98,
+        "region": "Central Luzon (Region III)"
+    },
+    "Batanes": {
+        "population": 18831,
+        "area_sqkm": 219.01,
+        "region": "Cagayan Valley (Region II)"
+    },
+    "Batangas": {
+        "population": 2908494,
+        "area_sqkm": 3119.72,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Bulacan": {
+        "population": 3708890,
+        "area_sqkm": 2774.85,
+        "region": "Central Luzon (Region III)"
+    },
+    "Cagayan": {
+        "population": 1268603,
+        "area_sqkm": 9295.75,
+        "region": "Cagayan Valley (Region II)"
+    },
+    "Camarines Norte": {
+        "population": 629699,
+        "area_sqkm": 2320.07,
+        "region": "Bicol (Region V)"
+    },
+    "Camarines Sur": {
+        "population": 2068244,
+        "area_sqkm": 5465.26,
+        "region": "Bicol (Region V)"
+    },
+    "Catanduanes": {
+        "population": 271879,
+        "area_sqkm": 1492.16,
+        "region": "Bicol (Region V)"
+    },
+    "Cavite": {
+        "population": 4344829,
+        "area_sqkm": 1512.41,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Dagupan": {
+        "population": 174302,
+        "area_sqkm": 37.23,
+        "region": "Ilocos (Region I)"
+    },
+    "Ilocos Norte": {
+        "population": 609588,
+        "area_sqkm": 3504.3,
+        "region": "Ilocos (Region I)"
+    },
+    "Ilocos Sur": {
+        "population": 706009,
+        "area_sqkm": 2595.96,
+        "region": "Ilocos (Region I)"
+    },
+    "Isabela": {
+        "population": 1697050,
+        "area_sqkm": 13778.76,
+        "region": "Zamboanga Peninsula (Region IX)"
+    },
+    "La Union": {
+        "population": 822352,
+        "area_sqkm": 1503.75,
+        "region": "Ilocos (Region I)"
+    },
+    "Laguna": {
+        "population": 3382193,
+        "area_sqkm": 1823.55,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Lucena": {
+        "population": 278924,
+        "area_sqkm": 80.21,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Marinduque": {
+        "population": 239207,
+        "area_sqkm": 952.58,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Masbate": {
+        "population": 908920,
+        "area_sqkm": 4151.78,
+        "region": "Bicol (Region V)"
+    },
+    "Naga": {
+        "population": 209170,
+        "area_sqkm": 84.48,
+        "region": "Bicol (Region V)"
+    },
+    "Nueva Ecija": {
+        "population": 2310134,
+        "area_sqkm": 5751.33,
+        "region": "Central Luzon (Region III)"
+    },
+    "Nueva Vizcaya": {
+        "population": 497432,
+        "area_sqkm": 4378.8,
+        "region": "Cagayan Valley (Region II)"
+    },
+    "Mindoro Occidental": {
+        "population": 525354,
+        "area_sqkm": 5865.71,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Olongapo": {
+        "population": 260317,
+        "area_sqkm": 185.0,
+        "region": "Central Luzon (Region III)"
+    },
+    "Mindoro Oriental": {
+        "population": 908339,
+        "area_sqkm": 4238.38,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Palawan": {
+        "population": 1246673,
+        "area_sqkm": 17030.75,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Pampanga": {
+        "population": 2900637,
+        "area_sqkm": 2044.99,
+        "region": "Central Luzon (Region III)"
+    },
+    "Pangasinan": {
+        "population": 3163190,
+        "area_sqkm": 5451.08,
+        "region": "Ilocos (Region I)"
+    },
+    "Puerto Princesa": {
+        "population": 307079,
+        "area_sqkm": 2381.02,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Quezon": {
+        "population": 2229383,
+        "area_sqkm": 8926.01,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Quirino": {
+        "population": 203828,
+        "area_sqkm": 3486.16,
+        "region": "Cagayan Valley (Region II)"
+    },
+    "Rizal": {
+        "population": 3330143,
+        "area_sqkm": 1175.76,
+        "region": "CALABARZON (Region IV-A)"
+    },
+    "Romblon": {
+        "population": 308985,
+        "area_sqkm": 1533.45,
+        "region": "MIMAROPA (Region IV-B)"
+    },
+    "Santiago": {
+        "population": 148580,
+        "area_sqkm": 255.5,
+        "region": "Cagayan Valley (Region II)"
+    },
+    "Sorsogon": {
+        "population": 828655,
+        "area_sqkm": 2119.01,
+        "region": "Bicol (Region V)"
+    },
+    "Tarlac": {
+        "population": 1503456,
+        "area_sqkm": 2736.64,
+        "region": "Central Luzon (Region III)"
+    },
+    "Zambales": {
+        "population": 909932,
+        "area_sqkm": 3714.4,
+        "region": "Central Luzon (Region III)"
+    },
+    "Aklan": {
+        "population": 615475,
+        "area_sqkm": 1821.42,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Antique": {
+        "population": 612974,
+        "area_sqkm": 2729.17,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Bacolod": {
+        "population": 600783,
+        "area_sqkm": 162.67,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Capiz": {
+        "population": 804952,
+        "area_sqkm": 2594.64,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Guimaras": {
+        "population": 187842,
+        "area_sqkm": 604.57,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Iloilo": {
+        "population": 2509525,
+        "area_sqkm": 4899.35,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Negros Occidental": {
+        "population": 3223955,
+        "area_sqkm": 7965.21,
+        "region": "Western Visayas (Region VI)"
+    },
+    "Bohol": {
+        "population": 1394329,
+        "area_sqkm": 4820.95,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Cebu": {
+        "population": 5151274,
+        "area_sqkm": 5331.07,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Lapu-Lapu": {
+        "population": 497604,
+        "area_sqkm": 58.1,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Mandaue": {
+        "population": 364116,
+        "area_sqkm": 25.18,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Negros Oriental": {
+        "population": 1432990,
+        "area_sqkm": 5385.53,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Siquijor": {
+        "population": 103395,
+        "area_sqkm": 337.49,
+        "region": "Central Visayas (Region VII)"
+    },
+    "Biliran": {
+        "population": 179312,
+        "area_sqkm": 536.01,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Eastern Samar": {
+        "population": 477168,
+        "area_sqkm": 4640.73,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Leyte": {
+        "population": 2028728,
+        "area_sqkm": 6515.05,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Northern Samar": {
+        "population": 639186,
+        "area_sqkm": 3692.93,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Ormoc": {
+        "population": 230998,
+        "area_sqkm": 613.6,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Samar": {
+        "population": 793183,
+        "area_sqkm": 6048.03,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Southern Leyte": {
+        "population": 429573,
+        "area_sqkm": 1797.22,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Tacloban": {
+        "population": 251881,
+        "area_sqkm": 201.72,
+        "region": "Eastern Visayas (Region VIII)"
+    },
+    "Zamboanga": {
+        "population": 977234,
+        "area_sqkm": 1414.7,
+        "region": "Zamboanga Peninsula (Region IX)"
+    },
+    "Zamboanga del Norte": {
+        "population": 1047455,
+        "area_sqkm": 7301.0,
+        "region": "Zamboanga Peninsula (Region IX)"
+    },
+    "Zamboanga del Sur": {
+        "population": 2027902,
+        "area_sqkm": 5914.16,
+        "region": "Zamboanga Peninsula (Region IX)"
+    },
+    "Zamboanga Sibugay": {
+        "population": 669840,
+        "area_sqkm": 3607.75,
+        "region": "Zamboanga Peninsula (Region IX)"
+    },
+    "Bukidnon": {
+        "population": 1541308,
+        "area_sqkm": 10498.59,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Cagayan de Oro": {
+        "population": 728402,
+        "area_sqkm": 412.8,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Camiguin": {
+        "population": 92808,
+        "area_sqkm": 237.95,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Iligan": {
+        "population": 363115,
+        "area_sqkm": 813.37,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Lanao del Norte": {
+        "population": 1086017,
+        "area_sqkm": 3824.79,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Misamis Occidental": {
+        "population": 617333,
+        "area_sqkm": 2055.22,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Misamis Oriental": {
+        "population": 1685302,
+        "area_sqkm": 3515.7,
+        "region": "Northern Mindanao (Region X)"
+    },
+    "Davao": {
+        "population": 1776949,
+        "area_sqkm": 2444.0,
+        "region": "Davao (Region XI)"
+    },
+    "Compostela Valley": {
+        "population": 767547,
+        "area_sqkm": 4479.77,
+        "region": "Davao (Region XI)"
+    },
+    "Davao del Norte": {
+        "population": 1125057,
+        "area_sqkm": 3426.97,
+        "region": "Davao (Region XI)"
+    },
+    "Davao del Sur": {
+        "population": 2457430,
+        "area_sqkm": 6667.06,
+        "region": "Davao (Region XI)"
+    },
+    "Davao Occidental": {
+        "population": 317159,
+        "area_sqkm": 2163.45,
+        "region": ""
+    },
+    "Davao Oriental": {
+        "population": 576343,
+        "area_sqkm": 5670.07,
+        "region": "Davao (Region XI)"
+    },
+    "Abra": {
+        "population": 250985,
+        "area_sqkm": 4198.2,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Agusan del Norte": {
+        "population": 760413,
+        "area_sqkm": 3546.86,
+        "region": "Dinagat Islands (Region XIII)"
+    },
+    "Agusan del Sur": {
+        "population": 739367,
+        "area_sqkm": 9989.52,
+        "region": "Dinagat Islands (Region XIII)"
+    },
+    "Apayao": {
+        "population": 124366,
+        "area_sqkm": 4351.23,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Baguio": {
+        "population": 366358,
+        "area_sqkm": 57.51,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Basilan": {
+        "population": 426207,
+        "area_sqkm": 3453.42,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Bayugan": {
+        "population": 109499,
+        "area_sqkm": 688.77,
+        "region": ""
+    },
+    "Benguet": {
+        "population": 460683,
+        "area_sqkm": 2769.08,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Butuan": {
+        "population": 372910,
+        "area_sqkm": 816.62,
+        "region": "Dinagat Islands (Region XIII)"
+    },
+    "Cabadbaran": {
+        "population": 80354,
+        "area_sqkm": 214.44,
+        "region": ""
+    },
+    "Caloocan": {
+        "population": 1661584,
+        "area_sqkm": 55.8,
+        "region": "National Capital Region"
+    },
+    "Cotabato": {
+        "population": 325079,
+        "area_sqkm": 176.0,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Dinagat Islands": {
+        "population": 128117,
+        "area_sqkm": 1036.34,
+        "region": ""
+    },
+    "General Santos": {
+        "population": 697315,
+        "area_sqkm": 492.86,
+        "region": "SOCCSKSARGEN (Region XII)"
+    },
+    "Ifugao": {
+        "population": 207498,
+        "area_sqkm": 2517.78,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Kalinga": {
+        "population": 229570,
+        "area_sqkm": 3231.25,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Lanao del Sur": {
+        "population": 1195518,
+        "area_sqkm": 3872.0,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Las Pinas": {
+        "population": 606293,
+        "area_sqkm": 32.69,
+        "region": "National Capital Region"
+    },
+    "Maguindanao": {
+        "population": 1342179,
+        "area_sqkm": 4900.0,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Makati": {
+        "population": 629616,
+        "area_sqkm": 21.57,
+        "region": "National Capital Region"
+    },
+    "Malabon": {
+        "population": 380522,
+        "area_sqkm": 15.96,
+        "region": "National Capital Region"
+    },
+    "Mandaluyong City": {
+        "population": 425758,
+        "area_sqkm": 21.26,
+        "region": "National Capital Region"
+    },
+    "Manila": {
+        "population": 1846513,
+        "area_sqkm": 42.88,
+        "region": "National Capital Region"
+    },
+    "Marikina": {
+        "population": 456059,
+        "area_sqkm": 21.52,
+        "region": "National Capital Region"
+    },
+    "Mountain Province": {
+        "population": 158200,
+        "area_sqkm": 2157.38,
+        "region": "Cordillera Administrative Region (CAR)"
+    },
+    "Muntinlupa": {
+        "population": 543445,
+        "area_sqkm": 46.7,
+        "region": "National Capital Region"
+    },
+    "Navotas": {
+        "population": 247543,
+        "area_sqkm": 10.77,
+        "region": "National Capital Region"
+    },
+    "Paranaque": {
+        "population": 689992,
+        "area_sqkm": 47.69,
+        "region": "National Capital Region"
+    },
+    "Pasay": {
+        "population": 440656,
+        "area_sqkm": 18.5,
+        "region": "National Capital Region"
+    },
+    "Pasig": {
+        "population": 803159,
+        "area_sqkm": 31.0,
+        "region": "National Capital Region"
+    },
+    "Pateros": {
+        "population": 63840,
+        "area_sqkm": 2.1,
+        "region": "National Capital Region"
+    },
+    "Quezon City": {
+        "population": 2960048,
+        "area_sqkm": 166.2,
+        "region": "National Capital Region"
+    },
+    "San Juan": {
+        "population": 126347,
+        "area_sqkm": 5.94,
+        "region": "National Capital Region"
+    },
+    "Sarangani": {
+        "population": 558946,
+        "area_sqkm": 3601.25,
+        "region": "SOCCSKSARGEN (Region XII)"
+    },
+    "South Cotabato": {
+        "population": 975476,
+        "area_sqkm": 3935.95,
+        "region": "SOCCSKSARGEN (Region XII)"
+    },
+    "Sultan Kudarat": {
+        "population": 854052,
+        "area_sqkm": 4714.81,
+        "region": "SOCCSKSARGEN (Region XII)"
+    },
+    "Sulu": {
+        "population": 1000108,
+        "area_sqkm": 1600.4,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Surigao": {
+        "population": 171107,
+        "area_sqkm": 245.34,
+        "region": ""
+    },
+    "Surigao del Norte": {
+        "population": 534636,
+        "area_sqkm": 1972.93,
+        "region": "Dinagat Islands (Region XIII)"
+    },
+    "Surigao del Sur": {
+        "population": 642255,
+        "area_sqkm": 4932.7,
+        "region": "Dinagat Islands (Region XIII)"
+    },
+    "Taguig": {
+        "population": 886722,
+        "area_sqkm": 45.21,
+        "region": "National Capital Region"
+    },
+    "Tandag": {
+        "population": 62669,
+        "area_sqkm": 291.73,
+        "region": ""
+    },
+    "Tawi-Tawi": {
+        "population": 450346,
+        "area_sqkm": 1087.4,
+        "region": "Autonomous Region in Muslim Mindanao (ARMM)"
+    },
+    "Valenzuela": {
+        "population": 714978,
+        "area_sqkm": 47.02,
+        "region": "National Capital Region"
+    }
+}
