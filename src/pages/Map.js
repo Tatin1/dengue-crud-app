@@ -125,7 +125,7 @@ const Map = ({ data, find = "cases", by = "location", normalize = "area_sqkm" })
     if (feature.properties) {
       // Retrieve location and region data from JSON files
       const location = locationMapping[feature.properties.name] || feature.properties.name;
-      const locationData = locProfiles[location?.toLowerCase()] || {};  // Get location profile
+      const locationData = locProfiles[feature.properties.name] || {};  // Get location profile
   
       // Use toTitleCase to format the location and region names
       // const formattedLocation = location ? toTitleCase(location) : toTitleCase(feature.properties.name);
