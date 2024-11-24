@@ -128,7 +128,8 @@ const Map = ({ data, find = "cases", by = "location", normalize = "area_sqkm" })
       const locationData = locProfiles[location?.toLowerCase()] || {};  // Get location profile
   
       // Use toTitleCase to format the location and region names
-      const formattedLocation = location ? toTitleCase(location) : toTitleCase(feature.properties.name);
+      // const formattedLocation = location ? toTitleCase(location) : toTitleCase(feature.properties.name);
+      const formattedLocation = location ? location : feature.properties.name;
   
       // Extract population, area, and region profile from locationData
       // Apply toTitleCase to region profile to ensure it's properly formatted

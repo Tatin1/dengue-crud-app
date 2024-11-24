@@ -14,13 +14,13 @@ const SideBar = ({ mobileOpen, setMobileOpen, isClosing }) => {
   const drawer = (
     <div>
       <List>
-        <ListItem button component={Link} to="/" onClick={handleDrawerToggle}>
+        <ListItem component={Link} to="/" onClick={handleDrawerToggle}>
           <ListItemText primary="Dashboard" />
         </ListItem>
-        <ListItem button component={Link} to="/data" onClick={handleDrawerToggle}>
+        <ListItem component={Link} to="/data" onClick={handleDrawerToggle}>
           <ListItemText primary="Dengue Data List" />
         </ListItem>
-        <ListItem button component={Link} to="/map" onClick={handleDrawerToggle}>
+        <ListItem component={Link} to="/map" onClick={handleDrawerToggle}>
           <ListItemText primary="Map" />
         </ListItem>
       </List>
